@@ -6,11 +6,12 @@
     background-color: #0d1117;
     color: #e6edf3;
     font-family: "Roboto";
+
 }
 
 .title {
     text-align: center;
-    margin-top:130px;
+    margin-top:80px;
     font-size: 40px;
 }
 
@@ -121,6 +122,7 @@
 
 footer {
     margin-top: 20px;
+    margin-bottom: 100px;
 }
 
 footer > div > a {
